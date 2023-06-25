@@ -14,30 +14,6 @@ Uflix is an IMDB-like website where users can explore and discover movies and TV
 
 To run Uflix locally, follow these steps:
 
-  1. Clone the Uflix repository:
-      git clone https://github.com/utso1707097/Uflix.git
-  2. Install dependencies:
-      
-Certainly! Here's the README.md file in Markdown format:
-
-markdown
-Copy code
-# Uflix
-
-Uflix is an IMDB-like website where users can explore and discover movies and TV shows based on ratings and personal preferences.
-
-## Functionality
-
-1. **Search**: Search for movies and TV shows by entering keywords or titles.
-2. **Explore**: Browse movie and TV show pages to gather more information.
-3. **Movie Details**: View detailed information about movies, including synopsis, writers, cast, duration, etc.
-4. **Trending**: Discover trending, popular, and top-rated movies and TV shows based on different timeframes.
-5. **Trailers and Recommendations**: Watch official trailers, promotional videos, and explore similar movies and recommendations.
-
-## Getting Started
-
-To run Uflix locally, follow these steps:
-
 1. Clone the Uflix repository:
     git clone https://github.com/your-username/Uflix.git
 
